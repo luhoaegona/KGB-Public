@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KGB.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>00DEF691290525091CA95A03742809D7342E178E</string>
+				<key>dateExpires</key>
+				<string>5/19/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9793ZGS832.com.aegona.kgb</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9793ZGS832</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>KGB.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8883f571-7b56-42c8-a05c-fc9c9901da9a</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.aegona.kgb</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9793ZGS832</string>
+				<key>name</key>
+				<string>Dam Huy</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
