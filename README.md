@@ -1,4 +1,2 @@
-
-# Foobar
-
-[ Vo day](itms-services://?action=download-manifest&url=https://github.com/luhoaegona/KGB-Public/blob/master/manifest.plist) to install foobar.
+https://github.com/MinhasKamal/github-markdown-syntax
+[GitHub](https://github.com/MinhasKamal/github-markdown-syntax)
