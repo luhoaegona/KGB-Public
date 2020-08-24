@@ -2,6 +2,7 @@
 <div id="readme" class="clearfix announce instapaper_body ">
   <span class="name"><span class="mini-icon mini-icon-readme"></span> README</span>
   <div class="plain"><pre># Pale
+<a href="itms-services://?action=download-manifest&url=https://github.com/luhoaegona/KGB-Public/blob/master/manifest.plist">Install Test1234</a>
 
 Pale is a simple PHP library that allows a developer to easily convert errors to exceptions without having to worry about the details of changing and restoring error handlers.
 
