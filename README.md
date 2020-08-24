@@ -1,4 +1,3 @@
-# KGB-Public
 
 # Foobar
 
