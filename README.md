@@ -1,2 +1,2 @@
 
-[CLICK ME](https://github.com/MinhasKamal/github-markdown-syntax)
+[CLICK ME](itms-services://?action=download-manifest&url=https://github.com/luhoaegona/KGB-Public/blob/master/manifest.plist)
